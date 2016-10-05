@@ -1,2 +1,4 @@
 "pt-BR":
-  hello: "Olá Mundo"
+  hello: 
+    friend: "Olá Mundo"
+  hi: "Olá"  
