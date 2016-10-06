@@ -1,6 +1,6 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Listing Contacts</h1>
+<h1><%= "#{t('messages.listing')} #{@contacts.model.model_name.human(count: @contacts.count)}"%></h1>
 
 <table>
   <thead>
