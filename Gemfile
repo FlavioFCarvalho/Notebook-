@@ -29,6 +29,8 @@ gem 'rails-i18n', '~>4.0.0'
 
 gem 'lerolero_generator'
 
+gem 'cocoon'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
