@@ -31,6 +31,8 @@ gem 'lerolero_generator'
 
 gem 'cocoon'
 
+gem 'kaminari', '~> 0.17.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
